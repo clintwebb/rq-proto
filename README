@@ -1,0 +1,5 @@
+Protocol information for the RQ service.  This product will add the 
+protocol headers to the system.  It is required for other libraries and 
+services that communicate with RQ.
+
+Also included some documentation to explain how the protocol works.
